@@ -1,0 +1,16 @@
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.Form1.resources
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.csproj.GenerateResource.cache
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.AssemblyInfoInputs.cache
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.AssemblyInfo.cs
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.csproj.CoreCompileInputs.cache
+C:\Users\ip521-14\source\repos\UP_8\UP_8\bin\Debug\net6.0-windows\UP_8.exe
+C:\Users\ip521-14\source\repos\UP_8\UP_8\bin\Debug\net6.0-windows\UP_8.deps.json
+C:\Users\ip521-14\source\repos\UP_8\UP_8\bin\Debug\net6.0-windows\UP_8.runtimeconfig.json
+C:\Users\ip521-14\source\repos\UP_8\UP_8\bin\Debug\net6.0-windows\UP_8.dll
+C:\Users\ip521-14\source\repos\UP_8\UP_8\bin\Debug\net6.0-windows\UP_8.pdb
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.dll
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\refint\UP_8.dll
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.pdb
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\UP_8.genruntimeconfig.cache
+C:\Users\ip521-14\source\repos\UP_8\UP_8\obj\Debug\net6.0-windows\ref\UP_8.dll
